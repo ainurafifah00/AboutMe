@@ -12,6 +12,8 @@
         android:id="@+id/name_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:paddingTop="@dimen/small_padding"
         android:text="@string/name"
         android:textAlignment="center"
         android:textColor="@color/black"
