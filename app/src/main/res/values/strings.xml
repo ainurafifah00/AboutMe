@@ -10,4 +10,5 @@
 \n\nIf my training model is well-behaved, I might believe them when they recommend me a restaurant\n\n.
     </string>
     <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
