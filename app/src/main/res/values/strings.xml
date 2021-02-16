@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Ainur Afifah</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio"> Hi. I am Ainur.\n\nI’m a Machine Learning Engineer currently trying to predict whether a mushroom is edible or poisonous.\n\n I used to write academic papers about deep learning and how it compares to machine learning when I was a grad student.
+\n\nIn my spare time, I’m training machine to detect faces using Computer Vision. I have to wear makeup on those days so it won’t judge me.
+\n\nWhen I’m bored, I’ll talk to the chatbot I’m developing using LSTM.
+\n\nI also do sentiment analysis on reviews, because let’s face it, I’m as clueless as my chatbot when detecting emotions.
+\n\nIf my training model is well-behaved, I might believe them when they recommend me a restaurant\n\n.
+    </string>
 </resources>
