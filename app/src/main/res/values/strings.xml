@@ -9,4 +9,5 @@
 \n\nI also do sentiment analysis on reviews, because let’s face it, I’m as clueless as my chatbot when detecting emotions.
 \n\nIf my training model is well-behaved, I might believe them when they recommend me a restaurant\n\n.
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
 </resources>
